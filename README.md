@@ -1,2 +1,2 @@
-# personal_project_management_tool
+# Jira Clone but with rust back end
 This is a personal project management tool 
